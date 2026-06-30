@@ -2,4 +2,4 @@ deployment:
   image: mongodb
   imageVersion: v1
 service:
-type: ClusterIP
+  type: ClusterIP
